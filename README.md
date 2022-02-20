@@ -1,9 +1,3 @@
-<style>
-    .hashtag {
-        font-size: 75%;
-    }
-</style>
-
 <p align="center">
   <br>
   <br>
