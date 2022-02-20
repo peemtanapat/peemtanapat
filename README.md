@@ -1,5 +1,7 @@
 <style>
-    .hashtag {font-size: 75%;}
+    .hashtag {
+        font-size: 75%;
+    }
 </style>
 
 <p align="center">
